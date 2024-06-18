@@ -1,6 +1,6 @@
 # MNIST Neural Network from Scratch
 
-This project implements a neural network from scratch to classify handwritten digits from the MNIST dataset, achieving an accuracy of 85%. The implementation is based on the video tutorial by [The Coding Train](https://www.youtube.com/watch?v=w8yWXqWQYmU).
+This project implements a neural network from scratch to classify handwritten digits from the MNIST dataset, achieving an accuracy of 85%. The implementation is based on the video tutorial by [Samson Zhang](https://www.youtube.com/watch?v=w8yWXqWQYmU).
 
 ## Network Architecture
 
@@ -32,4 +32,4 @@ Forward propagation computes the activations, while backward propagation compute
 
 ## References
 
-- [The Coding Train: Neural Network from Scratch](https://www.youtube.com/watch?v=w8yWXqWQYmU)
+- [Samson Zhang: Neural Network from Scratch](https://www.youtube.com/watch?v=w8yWXqWQYmU)
